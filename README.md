@@ -4,6 +4,8 @@ This repo is just to give a 3D plot solution to Question 6, and the calculations
 ## How to use
 Go to the corresponding ipynb, click on the open in the collab, run the code in collab.
 
+Note: you need "Adjacency_Matrix.xlsx" file as input.
+
 ## Author
 Jun (Jerry) Yin
 
