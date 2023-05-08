@@ -9,6 +9,6 @@ Note: you need `Adjacency_Matrix.xlsx` file as input for Q8B.
 ## Author
 Jun (Jerry) Yin
 
-University of Virginia
+Department of Electrical and Computer Engineering
 
-ECE
+University of Virginia
